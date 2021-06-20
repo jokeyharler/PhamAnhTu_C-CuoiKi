@@ -1,0 +1,65 @@
+﻿@model TestUngDung.Areas.Admin.Models.LoginModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Trang quản trị</title>
+    <!--Core CSS -->
+    <link href="~/Assets/Admin/bs3/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/Assets/Admin/css/bootstrap-reset.css" rel="stylesheet">
+    <link href="~/Assets/Admin/font-awesome/css/font-awesome.css" rel="stylesheet" />
+
+    <!-- Custom styles for this template -->
+    <link href="~/Assets/Admin/css/style.css" rel="stylesheet">
+    <link href="~/Assets/Admin/css/style-responsive.css" rel="stylesheet" />
+
+</head>
+<body class="login-body">
+
+    <div class="container">
+        <div class="form-signin">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+                @Html.ValidationSummary(true, null, new { @class = "alert alert-danger" })
+                <h2 class="form-signin-heading">Đăng nhập</h2>
+                <div class="login-wrap">
+                    <div class="user-login-info">
+                        @Html.TextBoxFor(model => model.UserName, new { @class = "form-control", @placeholder = "Mời nhập tên đăng nhập", @autofocus = "autofocus" })
+                        @Html.TextBoxFor(model => model.Password, new { @class = "form-control", @placeholder = "Mời nhập mật khẩu", @type = "password" })
+                    </div>
+                    <label class="checkbox">
+                        <input type="checkbox" value="remember-me"> Remember me
+                        <span class="pull-right">
+                            <a data-toggle="modal" href="#myModal"> Forgot Password?</a>
+
+                        </span>
+                    </label>
+                    <button class="btn btn-lg btn-login btn-block" type="submit">Sign in</button>
+
+                    @*<div class="registration">
+                    Don't have an account yet?
+                    <a class="" href="registration.html">
+                        Create an account
+                    </a>
+                </div>*@
+
+                </div>
+            }
+        </div>
+        </div>
+
+
+
+        <!-- Placed js at the end of the document so the pages load faster -->
+        <!--Core js-->
+        <script src="~/Assets/Admin/js/jquery.js"></script>
+        <script src="~/Assets/Admin/bs3/js/bootstrap.min.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,96 @@
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.pdb
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\PagedList.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\PagedList.Mvc.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\PagedList.xml
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\PagedList.Mvc.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\PagedList.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\PagedList.Mvc.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\PagedList.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\PagedList.Mvc.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.csproj.AssemblyReference.cache
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.pdb
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\PagedList.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\PagedList.Mvc.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\PagedList.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\bin\Debug\PagedList.Mvc.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.csproj.AssemblyReference.cache
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.pdb
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.pdb
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\bin\Debug\PagedList.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\bin\Debug\PagedList.Mvc.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\bin\Debug\PagedList.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\bin\Debug\PagedList.Mvc.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+D:\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\ModelEF.dll.config
+D:\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\ModelEF.dll
+D:\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\ModelEF.pdb
+D:\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\EntityFramework.dll
+D:\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\PagedList.dll
+D:\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\PagedList.Mvc.dll
+D:\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\EntityFramework.xml
+D:\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\PagedList.xml
+D:\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\PagedList.Mvc.xml
+D:\PhamPhongHao\PhamPhongHao\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+D:\PhamPhongHao\PhamPhongHao\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+D:\PhamPhongHao\PhamPhongHao\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+D:\PhamPhongHao\PhamPhongHao\ModelEF\obj\Debug\ModelEF.dll
+D:\PhamPhongHao\PhamPhongHao\ModelEF\obj\Debug\ModelEF.pdb
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\ModelEF.dll.config
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\ModelEF.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\ModelEF.pdb
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\EntityFramework.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\PagedList.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\PagedList.Mvc.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\EntityFramework.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\PagedList.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\bin\Debug\PagedList.Mvc.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\obj\Debug\ModelEF.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\ModelEF\obj\Debug\ModelEF.pdb

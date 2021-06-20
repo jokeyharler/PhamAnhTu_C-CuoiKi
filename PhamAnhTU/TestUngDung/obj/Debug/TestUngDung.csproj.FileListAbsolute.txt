@@ -1,0 +1,540 @@
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\TestUngDung.dll.config
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\TestUngDung.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\TestUngDung.pdb
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csc.exe
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csc.exe.config
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csc.rsp
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csi.exe
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csi.exe.config
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csi.rsp
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.AppContext.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Console.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Net.Http.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\vbc.exe
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\vbc.exe.config
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\vbc.rsp
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Antlr3.Runtime.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Newtonsoft.Json.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Helpers.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Mvc.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Optimization.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Razor.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\WebGrease.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Helpers.xml
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Mvc.xml
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Optimization.xml
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Razor.xml
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.xml
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Newtonsoft.Json.xml
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Antlr3.Runtime.pdb
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.pdb
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\EntityFramework.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\EntityFramework.SqlServer.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\ModelEF.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\ModelEF.pdb
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\ModelEF.dll.config
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\EntityFramework.xml
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\EntityFramework.SqlServer.xml
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\PagedList.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\PagedList.Mvc.dll
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\PagedList.xml
+C:\Users\User\OneDrive - Sunshine School\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\PagedList.Mvc.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\TestUngDung.dll.config
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\TestUngDung.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\TestUngDung.pdb
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csc.exe
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csc.exe.config
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csc.rsp
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csi.exe
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csi.exe.config
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csi.rsp
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.AppContext.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Console.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.Compression.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Net.Http.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.ValueTuple.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\vbc.exe
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\vbc.exe.config
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\vbc.rsp
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\VBCSCompiler.exe
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Antlr3.Runtime.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\EntityFramework.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\EntityFramework.SqlServer.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\ModelEF.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Newtonsoft.Json.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\PagedList.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\PagedList.Mvc.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Helpers.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Mvc.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Optimization.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Razor.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Razor.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\WebGrease.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\ModelEF.pdb
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\ModelEF.dll.config
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\EntityFramework.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\EntityFramework.SqlServer.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\PagedList.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\PagedList.Mvc.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Helpers.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Mvc.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Optimization.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Razor.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Razor.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Newtonsoft.Json.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Antlr3.Runtime.pdb
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.csproj.AssemblyReference.cache
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.dll
+C:\Users\dorae\OneDrive\Máy tính\LyThuyetC#\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.pdb
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\TestUngDung.dll.config
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\TestUngDung.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\TestUngDung.pdb
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csc.exe
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csc.exe.config
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csc.rsp
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csi.exe
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csi.exe.config
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\csi.rsp
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.AppContext.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Console.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.Compression.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Net.Http.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.ValueTuple.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\vbc.exe
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\vbc.exe.config
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\vbc.rsp
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\VBCSCompiler.exe
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Antlr3.Runtime.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\EntityFramework.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\EntityFramework.SqlServer.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\ModelEF.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Newtonsoft.Json.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\PagedList.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\PagedList.Mvc.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Helpers.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Mvc.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Optimization.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Razor.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Razor.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\WebGrease.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\ModelEF.pdb
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\ModelEF.dll.config
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\EntityFramework.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\EntityFramework.SqlServer.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\PagedList.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\PagedList.Mvc.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Helpers.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Mvc.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Optimization.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.Razor.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Razor.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Newtonsoft.Json.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Antlr3.Runtime.pdb
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.csproj.AssemblyReference.cache
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.dll
+C:\Users\dorae\OneDrive - University of Technology and Education\Desktop\LyThuyetC#\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.pdb
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\TestUngDung.dll.config
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\TestUngDung.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\TestUngDung.pdb
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\csc.exe
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\csi.exe
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\ModelEF.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\PagedList.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\PagedList.Mvc.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\WebGrease.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\ModelEF.pdb
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\ModelEF.dll.config
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\PagedList.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\PagedList.Mvc.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.dll
+C:\Users\ADMIN\Desktop\NguyenHuuThang\NguyenHuuThang\TestUngDung\obj\Debug\TestUngDung.pdb
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\TestUngDung.dll.config
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\TestUngDung.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\TestUngDung.pdb
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\csc.exe
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\csc.exe.config
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\csc.rsp
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\csi.exe
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\csi.exe.config
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\csi.rsp
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.AppContext.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Console.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Globalization.Calendars.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.IO.Compression.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Net.Http.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Net.Sockets.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.ValueTuple.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\vbc.exe
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\vbc.exe.config
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\vbc.rsp
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\VBCSCompiler.exe
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\Antlr3.Runtime.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\EntityFramework.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\EntityFramework.SqlServer.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\ModelEF.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\Newtonsoft.Json.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\PagedList.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\PagedList.Mvc.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Helpers.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Mvc.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Optimization.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Razor.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.WebPages.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.WebPages.Razor.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\WebGrease.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\ModelEF.pdb
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\ModelEF.dll.config
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\EntityFramework.xml
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\EntityFramework.SqlServer.xml
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\PagedList.xml
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\PagedList.Mvc.xml
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Helpers.xml
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Mvc.xml
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Optimization.xml
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Razor.xml
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.WebPages.xml
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.WebPages.Razor.xml
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\Newtonsoft.Json.xml
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\Antlr3.Runtime.pdb
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\obj\Debug\TestUngDung.dll
+D:\PhamPhongHao\PhamPhongHao\TestUngDung\obj\Debug\TestUngDung.pdb
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\TestUngDung.dll.config
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\TestUngDung.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\TestUngDung.pdb
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\csc.exe
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\csc.exe.config
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\csc.rsp
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\csi.exe
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\csi.exe.config
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\csi.rsp
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.AppContext.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Console.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Globalization.Calendars.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.IO.Compression.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Net.Http.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Net.Sockets.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.ValueTuple.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\vbc.exe
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\vbc.exe.config
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\vbc.rsp
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\VBCSCompiler.exe
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\Antlr3.Runtime.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\EntityFramework.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\EntityFramework.SqlServer.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\ModelEF.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\Newtonsoft.Json.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\PagedList.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\PagedList.Mvc.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Helpers.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Mvc.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Optimization.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Razor.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.WebPages.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.WebPages.Razor.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\WebGrease.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\ModelEF.pdb
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\ModelEF.dll.config
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\EntityFramework.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\EntityFramework.SqlServer.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\PagedList.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\PagedList.Mvc.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Helpers.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Mvc.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Optimization.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.Razor.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.WebPages.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\System.Web.WebPages.Razor.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\Newtonsoft.Json.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\Antlr3.Runtime.pdb
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\obj\Debug\TestUngDung.dll
+E:\ky220\C#\PhamPhongHao\PhamPhongHao\PhamPhongHao\TestUngDung\obj\Debug\TestUngDung.pdb
